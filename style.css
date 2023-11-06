@@ -1,0 +1,27 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  height: 100vh;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+}
+
+img {
+  width: 100%;
+  max-width: 1200px;
+}
+
+video {
+  @media (width <= 1700px) {
+    width: 100%;
+  }
+
+  @media (width > 1700px) {
+    height: 100%;
+  }
+}
