@@ -2,6 +2,8 @@
 
 Google Chrome のデフォルト壁紙の上書き拡張機能
 
+<video autoplay loop muted src="videos/nature.mp4"></video>
+
 ## 使い方
 
 - 拡張機能のページを開く
