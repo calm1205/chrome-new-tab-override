@@ -1,5 +1,5 @@
 {
-  "name": "portal background",
+  "name": "override background",
   "description": "検索画面のトップページの背景画像を変更します。",
   "version": "1.0",
   "manifest_version": 3,
